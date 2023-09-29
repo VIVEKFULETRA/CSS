@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+.mcart{
+    display: flex;
+    width: 98.99%;
+    justify-content: space-between;
+    overflow: hidden;
+    background-color: lightgray;
+    padding: 7px;
+}
+.main-cart{
+    display: flex;
+    flex-direction: column;
+    width: 24%;
+    align-items: center;
+    overflow: hidden;
+    background-color: white;
+    padding: 17px;
+    margin: 7px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.cart{
+    padding: 10px;
+}
+.image1{
+    width: 132px;
+    height: 102px;
+}
+.image2{
+    width: 284px;
+    height: 263px;
+}

@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 1320px;
+    /* background-color: black ; */
+}
+.mcart{
+    width: 1300px;
+    background-color: lightgray ;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.main-cart{
+    display: inline-block;
+    width: 24%;
+    overflow: hidden;
+    padding: 0 4.5px;
+    /* border: solid 5px gray; */
+    /* background-color: white */
+}
+.cart{
+    display: inline-block;
+    width: 46%;
+    padding: 5px;
+}
+.image1{
+    width: 152px;
+    height: 113px;
+}
+.image2{
+    width: 307px;
+    height: 253px;
+}
